@@ -1,61 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\",
+  "WorkspaceRootPath": "D:\\demo3\\monogame_final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|c:\\users\\administrator\\desktop\\.net\\monogame1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|d:\\demo3\\monogame_final\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\monogame_final\\Game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|c:\\users\\administrator\\desktop\\.net\\monogame1\\content\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|c:\\users\\administrator\\desktop\\.net\\monogame1\\content\\linkdown.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\linkdown.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\linkdown.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|c:\\users\\administrator\\desktop\\.net\\monogame1\\content\\linkleft.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\linkleft.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\linkleft.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|c:\\users\\administrator\\desktop\\.net\\monogame1\\content\\linkup.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\linkup.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\linkup.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|c:\\users\\administrator\\desktop\\.net\\monogame1\\content\\linkright.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\linkright.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\linkright.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\content\\nes - the legend of zelda - link.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\nes - the legend of zelda - link.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\nes - the legend of zelda - link.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\content\\ball.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\ball.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\ball.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\content\\smileywalk.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\content\\smileywalk.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:content\\smileywalk.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|D:\\demo3\\monogame_final\\icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{972759C0-FD73-470A-A78D-58641FF8B52A}|monogame1.csproj|solutionrelative:icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
@@ -66,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,173 +81,174 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BackGround.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\BackGround.png",
-              "RelativeDocumentMoniker": "Content\\BackGround.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\BackGround.png",
-              "RelativeToolTip": "Content\\BackGround.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T07:35:34.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LinkLeft.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkLeft.png",
-              "RelativeDocumentMoniker": "Content\\LinkLeft.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkLeft.png",
-              "RelativeToolTip": "Content\\LinkLeft.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T07:20:45.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LinkUp.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkUp.png",
-              "RelativeDocumentMoniker": "Content\\LinkUp.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkUp.png",
-              "RelativeToolTip": "Content\\LinkUp.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T07:16:08.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LinkRight.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkRight.png",
-              "RelativeDocumentMoniker": "Content\\LinkRight.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkRight.png",
-              "RelativeToolTip": "Content\\LinkRight.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T07:01:37.972Z",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\monogame_final\\Game1.cs",
+              "RelativeDocumentMoniker": "..\\..\\monogame_final\\Game1.cs",
+              "ToolTip": "D:\\monogame_final\\Game1.cs",
+              "RelativeToolTip": "..\\..\\monogame_final\\Game1.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:41:50.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "BackGround.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\BackGround.png",
+              "RelativeDocumentMoniker": "Content\\BackGround.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\BackGround.png",
+              "RelativeToolTip": "Content\\BackGround.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T07:35:34.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinkLeft.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\LinkLeft.png",
+              "RelativeDocumentMoniker": "Content\\LinkLeft.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\LinkLeft.png",
+              "RelativeToolTip": "Content\\LinkLeft.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T07:20:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinkUp.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\LinkUp.png",
+              "RelativeDocumentMoniker": "Content\\LinkUp.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\LinkUp.png",
+              "RelativeToolTip": "Content\\LinkUp.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T07:16:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LinkRight.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\LinkRight.png",
+              "RelativeDocumentMoniker": "Content\\LinkRight.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\LinkRight.png",
+              "RelativeToolTip": "Content\\LinkRight.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-10T07:01:37.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LinkDown.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkDown.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\LinkDown.png",
               "RelativeDocumentMoniker": "Content\\LinkDown.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\LinkDown.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\LinkDown.png",
               "RelativeToolTip": "Content\\LinkDown.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T06:56:31.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T06:56:31.506Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Game1.cs",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Game1.cs",
               "RelativeDocumentMoniker": "Game1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Game1.cs",
+              "ToolTip": "D:\\demo3\\monogame_final\\Game1.cs",
               "RelativeToolTip": "Game1.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAgwHEAAAAfAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAuwIIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T07:18:45.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ball.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\ball.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\ball.png",
               "RelativeDocumentMoniker": "Content\\ball.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\ball.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\ball.png",
               "RelativeToolTip": "Content\\ball.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T03:05:21.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T03:05:21.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NES - The Legend of Zelda - Link.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\NES - The Legend of Zelda - Link.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\NES - The Legend of Zelda - Link.png",
               "RelativeDocumentMoniker": "Content\\NES - The Legend of Zelda - Link.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\NES - The Legend of Zelda - Link.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\NES - The Legend of Zelda - Link.png",
               "RelativeToolTip": "Content\\NES - The Legend of Zelda - Link.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-05-10T02:57:51.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T02:57:51.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SmileyWalk.png",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\SmileyWalk.png",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Content\\SmileyWalk.png",
               "RelativeDocumentMoniker": "Content\\SmileyWalk.png",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Content\\SmileyWalk.png",
+              "ToolTip": "D:\\demo3\\monogame_final\\Content\\SmileyWalk.png",
               "RelativeToolTip": "Content\\SmileyWalk.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-05-10T02:55:49.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AnimatedSprite.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\AnimatedSprite.cs",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\AnimatedSprite.cs",
               "RelativeDocumentMoniker": "AnimatedSprite.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\AnimatedSprite.cs",
+              "ToolTip": "D:\\demo3\\monogame_final\\AnimatedSprite.cs",
               "RelativeToolTip": "AnimatedSprite.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAwCAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T01:04:45.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T01:04:45.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Icon.bmp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Icon.bmp",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Icon.bmp",
               "RelativeDocumentMoniker": "Icon.bmp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Icon.bmp",
+              "ToolTip": "D:\\demo3\\monogame_final\\Icon.bmp",
               "RelativeToolTip": "Icon.bmp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-05-03T08:06:56.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Program.cs",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Program.cs",
+              "ToolTip": "D:\\demo3\\monogame_final\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:18:47.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T07:18:47.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Icon.ico - Icon [256x256, 32 \u4F4D, PNG]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Icon.ico",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\Icon.ico",
               "RelativeDocumentMoniker": "Icon.ico",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\Icon.ico - Icon [256x256, 32 \u4F4D, PNG]",
-              "RelativeToolTip": "Icon.ico - Icon [256x256, 32 \u4F4D, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2024-05-03T07:32:56.469Z",
-              "EditorCaption": " - Icon [256x256, 32 \u4F4D, PNG]"
+              "WhenOpened": "2024-05-03T07:32:56.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\app.manifest",
+              "DocumentMoniker": "D:\\demo3\\monogame_final\\app.manifest",
               "RelativeDocumentMoniker": "app.manifest",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\.Net\\monogame1\\app.manifest",
+              "ToolTip": "D:\\demo3\\monogame_final\\app.manifest",
               "RelativeToolTip": "app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2024-05-03T07:36:46.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T07:36:46.561Z"
             }
           ]
         }
