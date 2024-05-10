@@ -4,22 +4,36 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/arrow.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/BackGround.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/ball.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkAttackD.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkAttackL.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkAttackR.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkAttackU.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkDown.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkHurt.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkLeft.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkRight.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/LinkUp.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/NES - The Legend of Zelda - Link.png</File>
-    <File>C:/Users/Administrator/Desktop/.Net/monogame1/Content/SmileyWalk.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/arrow.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/BackGround.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/ball.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/block.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/enemy.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/enemy2.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/item1.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/item2.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/item3.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/item4.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkAttackD.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkAttackL.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkAttackR.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkAttackU.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkDown.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkHurt.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkLeft.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkRight.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/LinkUp.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/NES - The Legend of Zelda - Link.png</File>
+    <File>C:/Users/23804/source/repos/monogame_final/Content/SmileyWalk.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
