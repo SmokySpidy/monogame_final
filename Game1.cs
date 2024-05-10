@@ -14,7 +14,9 @@ namespace monogame1
         private SpriteBatch _spriteBatch;
 
         private Link link;
-
+        private BlockManager blockManager;
+        private ItemManager itemManager;
+        private EnemyManager enemyManager;
 
         private Texture2D BackGround;
         public Game1()
@@ -34,6 +36,8 @@ namespace monogame1
 
             
             base.Initialize();
+            _spriteBatch = new SpriteBatch(GraphicsDevice);
+            Services.AddService(typeof(SpriteBatch), _spriteBatch);
         }
         protected void LinkLoad()
         {
@@ -69,6 +73,28 @@ namespace monogame1
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             // TODO: use this.Content to load your game content here
             BackGround = Content.Load<Texture2D>("BackGround");
+
+            blockManager = new BlockManager(this);
+            blockManager.Initialize();
+            Components.Add(blockManager);
+            for (int i = 0; i < 5; i++)
+            {
+                Random random = new Random();
+                int randomX = random.Next(0, GraphicsDevice.Viewport.Width);
+                int randomY = random.Next(0, GraphicsDevice.Viewport.Height);
+                Microsoft.Xna.Framework.Vector2 randomPosition = new Microsoft.Xna.Framework.Vector2(randomX, randomY);
+                blockManager.AddBlock(randomPosition);
+            }
+
+            itemManager = new ItemManager(this);
+            itemManager.Initialize();
+            Components.Add(itemManager);
+
+            enemyManager = new EnemyManager(this);
+            enemyManager.Initialize();
+            Components.Add(enemyManager);
+            LinkLoad();
+
             LinkLoad();
 
 

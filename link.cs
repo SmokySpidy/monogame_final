@@ -14,23 +14,22 @@ namespace monogame1
 {
     public class Link
     {
-        private AnimatedSprite LinkLeft;
-        private AnimatedSprite LinkRight;
-        private AnimatedSprite LinkUp;
-        private AnimatedSprite LinkDown;
-        private AnimatedSprite LinkAttackD;
-        private AnimatedSprite LinkAttackR;
-        private AnimatedSprite LinkAttackU;
-        private AnimatedSprite LinkAttackL;
-        private AnimatedSprite LinkHurt;
+        public AnimatedSprite LinkLeft;
+        public AnimatedSprite LinkRight;
+        public AnimatedSprite LinkUp;
+        public AnimatedSprite LinkDown;
+        public AnimatedSprite LinkAttackD;
+        public AnimatedSprite LinkAttackR;
+        public AnimatedSprite LinkAttackU;
+        public AnimatedSprite LinkAttackL;
+        public AnimatedSprite LinkHurt;
 
-        private int AtkCnt;
-        private int HurtCnt;
-
-        private Vector2 LinkPos;
-        private float LinkSpeed;
-        private Direction direction;
-        private State state;
+        public int AtkCnt;
+        public int HurtCnt;
+        public Vector2 LinkPos;
+        public float LinkSpeed;
+        public Direction direction;
+        public State state;
 
         public Link()
         {
