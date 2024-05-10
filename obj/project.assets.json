@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\demo3\\monogame_final\\monogame1.csproj",
+      "projectUniqueName": "D:\\demo4\\monogame_final\\monogame1.csproj",
       "projectName": "monogame1",
-      "projectPath": "D:\\demo3\\monogame_final\\monogame1.csproj",
+      "projectPath": "D:\\demo4\\monogame_final\\monogame1.csproj",
       "packagesPath": "C:\\Users\\111\\.nuget\\packages\\",
-      "outputPath": "D:\\demo3\\monogame_final\\obj\\",
+      "outputPath": "D:\\demo4\\monogame_final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
